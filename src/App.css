@@ -1,0 +1,15 @@
+
+
+nav{
+  display: flex;
+}
+li{
+  margin: 25px;
+}
+ul{
+  display: flex;
+  list-style: none;
+}
+nav{
+  background-color: wheat;
+}
